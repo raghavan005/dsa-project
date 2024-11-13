@@ -49,8 +49,5 @@ This project is a **Quiz Program** developed in C++. It showcases various C++ fe
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request with any improvements or suggestions.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 For any inquiries or feedback, please contact ([rragavan2004@gmail.com]).
